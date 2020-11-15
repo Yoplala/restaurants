@@ -1,33 +1,94 @@
 [
    {
-      "restaurantName":"Bronco",
-      "address":"39 Rue des Petites Écuries, 75010 Paris",
-      "lat":48.8737815,
-      "long":2.3501649,
+      "restaurantName":"La Truffe noire",
+      "address":"Boulevard de la Cambre 12, Bruxelles 1050",
+      "lat":50.81623,
+      "long":4.37655,
       "ratings":[
          {
             "stars":4,
-            "comment":"Un excellent restaurant, j'y reviendrai ! Par contre il vaut mieux aimer la viande."
+            "comment":"Anniversaire de notre fille. Soirée à 6, dont un enfant. Belle carte, service au top du top et accueil au niveau !"
          },
          {
             "stars":5,
-            "comment":"Tout simplement mon restaurant préféré !"
+            "comment":"Un vrai régal et une véritable découverte de la truffe Merci pour la suggestion de Luigi et Sa Truffe du Périgord à la croque au sel."
+         },
+         {
+            "stars":5,
+            "comment":"Excellent restaurant gastronomique. Cuisine succulente et service attentionné sans être trop envahissant, ce restaurant est à recommander."
          }
       ]
    },
    {
-      "restaurantName":"Babalou",
-      "address":"4 Rue Lamarck, 75018 Paris",
-      "lat":48.8865035,
-      "long":2.3442197,
+      "restaurantName":"Fin de Siècle",
+      "address":"Rue des Chartreux 9, Bruxelles 1000",
+      "lat":50.84891,
+      "long":4.34708,
       "ratings":[
          {
             "stars":5,
-            "comment":"Une minuscule pizzeria délicieuse cachée juste à côté du Sacré choeur !"
+            "comment":"Des repas copieux et surtout divinement bons pour des prix plus que démocratiques et le tout sans chichi!"
+         },
+         {
+            "stars":4,
+            "comment":"Bon repas très copieux dans un cadre sympathique. Accueil sympathique, lieu agréable. Carbonnade très copieuse: beaucoup de viande et de purée de pommes de terre faite maison. Il manquait des légumes (ou salade) en accompagnement. Service sympathique et efficace."
+         }
+      ]
+   },
+   {
+      "restaurantName":"Comme chez Soi",
+      "adress":"Place Rouppe 23, Bruxelles 1000",
+      "lat":50.84235,
+      "long":4.34582,
+      "ratings":[
+         {
+            "stars":5,
+            "comment":"Une soirée exceptionnelle ! Magnifique équilibre des saveurs, les cuissons, le service avenant mais pas guindé, la sympathie du sommelier, tout était juste incroyable."
+         },
+         {
+            "stars":5,
+            "comment":"Une superbe expérience ! Tout était absolument exquis et raffiné, rien de laissé au hasard. Le service est parfait dans un endroit magnifique. Nous avons vraiment passé un moment exceptionnel."
+         },
+         {
+            "stars":1,
+            "comment":"Excessif ! Beaucoup trop cher ! Payer autant pour des choses aussi simple ! Simplement inutile !"
+         }
+      ]
+   },
+   {
+      "restaurantName":"Au Vieux Bruxelles",
+      "adress":"Rue Saint-Boniface 35, Bruxelles 1050",
+      "lat":50.83646,
+      "long":4.36396,
+      "ratings":
+      [
+         {
+            "stars":5,
+            "comment":"Moule frite. Petit resto Bruxellois impeccable, propre et délicieux, nous adorons leurs moules frites, merci au garçon de salle pour sa prévenance."
          },
          {
             "stars":3,
-            "comment":"J'ai trouvé ça correct, sans plus"
+            "comment":"Restaurant familiale que de nom, si vous avez des enfants... ne vous arrêtez pas. Nous avons manger un soir en terrasse dans ce joli restaurant qui évoque son histoire familiale. À notre grande surprise aucun plat pour les enfants (compliqué avec une fille de 5ans) pas de menu enfant, aucun plat simple."
+         }
+      ]
+   },
+   {
+      "restaurantName":"Aux Armes de Bruxelles",
+      "adress":"13, rue des Bouchers, Bruxelles 1000",
+      "lat":50.84809,
+      "long":4.35389,
+      "ratings":[
+         {
+            "stars":5,
+            "comment":"Une adresse à ne pas louper ! Un accueil très chaleureux, un service de qualité, le repas a été excellent. Le rapport qualité prix est au rendez-vous, une adresse à ne pas louper pendant un séjour !"
+         },
+         {
+            "stars":5,
+            "comment":"Recommandé ! Le cadre est bien joli, le personnel de bonne humeur malgré notre arrivée tardive et les plats bien copieux et bons. Le cocktail création de la maison était excellent. Restaurant recommandé !"
+         },
+         {
+            "stars":3,
+            "comment":"Une institution qui ne tient plus ses promesses et qui perd de son authenticité !"
          }
       ]
    }
