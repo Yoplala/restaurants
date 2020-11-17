@@ -37,7 +37,7 @@
    },
    {
       "restaurantName":"Comme chez Soi",
-      "adress":"Place Rouppe 23, Bruxelles 1000",
+      "address":"Place Rouppe 23, Bruxelles 1000",
       "lat":50.84235,
       "long":4.34582,
       "ratings":[
@@ -57,7 +57,7 @@
    },
    {
       "restaurantName":"Au Vieux Bruxelles",
-      "adress":"Rue Saint-Boniface 35, Bruxelles 1050",
+      "address":"Rue Saint-Boniface 35, Bruxelles 1050",
       "lat":50.83646,
       "long":4.36396,
       "ratings":
@@ -74,7 +74,7 @@
    },
    {
       "restaurantName":"Aux Armes de Bruxelles",
-      "adress":"13, rue des Bouchers, Bruxelles 1000",
+      "address":"13, rue des Bouchers, Bruxelles 1000",
       "lat":50.84809,
       "long":4.35389,
       "ratings":[
